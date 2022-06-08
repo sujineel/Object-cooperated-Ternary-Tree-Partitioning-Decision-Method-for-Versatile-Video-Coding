@@ -1,0 +1,12 @@
+.\DecoderApp4.0_org.exe -b Cactus_22.bin -o Cactus_22.yuv
+.\DecoderApp4.0_org.exe -b Cactus_27.bin -o Cactus_27.yuv
+.\DecoderApp4.0_org.exe -b Cactus_32.bin -o Cactus_32.yuv
+.\DecoderApp4.0_org.exe -b Cactus_37.bin -o Cactus_37.yuv
+.\DecoderApp4.0_org.exe -b MarketPlace_22.bin -o MarketPlace_22.yuv
+.\DecoderApp4.0_org.exe -b MarketPlace_27.bin -o MarketPlace_27.yuv
+.\DecoderApp4.0_org.exe -b MarketPlace_32.bin -o MarketPlace_32.yuv
+.\DecoderApp4.0_org.exe -b MarketPlace_37.bin -o MarketPlace_37.yuv
+.\DecoderApp4.0_org.exe -b RitualDance_22.bin -o RitualDance_22.yuv
+.\DecoderApp4.0_org.exe -b RitualDance_27.bin -o RitualDance_27.yuv
+.\DecoderApp4.0_org.exe -b RitualDance_32.bin -o RitualDance_32.yuv
+.\DecoderApp4.0_org.exe -b RitualDance_37.bin -o RitualDance_37.yuv
