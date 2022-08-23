@@ -1,1 +1,1 @@
-# Object-cooperated-Ternary-Tree-Partitioning-Decision-Method-in-Versatile-Video-Coding
+# Object-cooperated-Ternary-Tree-Partitioning-Decision-Method-for-Versatile-Video-Coding
